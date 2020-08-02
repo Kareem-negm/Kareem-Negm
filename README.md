@@ -1,5 +1,5 @@
 ### Hi I am Kareem Negm 👋
-
+[![dev.to badge](https://www.linkedin.com/in/kareem-negm-9a7a501a1/)](https://www.linkedin.com/in/mohamedabusrea)
 <!--
 **Kareem-negm/Kareem-Negm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
