@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kareem Negm <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /></h1>
 <h3 align="center">Udacity Student Ambassador | Deeplearning.ai Ambassador| Kaggle expert 2| AI head at IEEE|Upwork ML freelancer | Open source Contributor </h3>
-<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<img align="right" height="250" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-negm&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-negm" /> </p>
 
