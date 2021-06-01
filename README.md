@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **negmkareem38@gmail.com**
 
-- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1YA5IBz0DGZSe9pnrEHWCXlt7WSq7VCyU/view?usp=sharing)
+- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1g59bMc1Gk-5Wxsinpxav9AjH8mMepQV1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
