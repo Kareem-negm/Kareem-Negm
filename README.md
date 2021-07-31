@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **negmkareem38@gmail.com**
 
-- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1g59bMc1Gk-5Wxsinpxav9AjH8mMepQV1/view?usp=sharing)
+- 📄 Know about my experiences look at my [CV](https://drive.google.com/file/d/1RVgwDrETxjtboUxhk_BMoZBPA978W26F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,9 +29,9 @@
 
 
 ## Follow Me At
-<a href="https://www.linkedin.com/in/kareem-negm/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kareem-negm/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/KareemNegm_"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://www.kaggle.com/kareem3egm"><img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="center">
