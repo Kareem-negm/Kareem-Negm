@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem Negm </h1>
-<h3 align="center">Udacity Student Ambassador | Deeplearning.ai Ambassador| Kaggle expert 2| AI head at IEEE|Upwork ML freelancer | Open source Contributor </h3>
+<h3 align="center">Ambassador @Deeplearning.ai | Expert @kaggle|Member @Omdena | ML freelancer @Upwork |OpenSource contributor @GitHub "Kareem-negm" | GWoC21 |ask me about MLops </h3>
 <img align="right" height="250" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-negm&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-negm" /> </p>
