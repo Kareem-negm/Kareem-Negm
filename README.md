@@ -29,6 +29,11 @@
 </p>
 
 
+<p>
+<img src ="https://activity-graph.herokuapp.com/graph?username=kareem-negm&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
+    
+</p>
+
 ## Follow Me At
 <a href="https://www.linkedin.com/in/kareem-negm/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/KareemNegm_"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
